@@ -488,26 +488,6 @@ The service offers multiple domain-specific models.
 
 .. _mt-weblate:
 
-OpenAI GPT-4 Language Translator
---------------------------------
-
-:Service ID: ``openai``
-:Configuration: +---------+---------+--+
-                | ``url`` | API URL |  |
-                +---------+---------+--+
-                | ``key`` | API key |  |
-                +---------+---------+--+
-
-OpenAI GPT-4 Language Translator translates text from one language to another.
-The service offers multiple domain-specific models.
-
-.. seealso::
-
-    `OpenAI GPT4 Language Translator <https://openai.com/product/gpt-4>`_,
-    `OpenAI API Docs <https://platform.openai.com/docs/api-reference>`_
-
-.. _mt-weblate:
-
 Weblate
 -------
 
